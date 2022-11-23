@@ -1,0 +1,2 @@
+# variables
+rules of variables
